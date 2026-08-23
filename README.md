@@ -9,7 +9,7 @@ Understand wheatstone bridges, amplifiers, and state machines by creating a roug
 - Debugged Button bounce by using ceramic capacitor and built-in Arduino Pullup Resistor pin
 - Experimentally determined scale w/ teammate   
 
-[Technical Report](Documentation/DigitalScaleReport): 
+[Technical Report](Documentation/DigitalScaleReport.pdf): 
 - Flow charts
 - Explanation of how load cells use a wheatstone bridge 
 - Explanation of the HX711 Analog to Digital Convertor and pins 
