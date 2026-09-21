@@ -1,5 +1,6 @@
 # Digital-Scale
-A digital scale capable of taring and switching units. Created by my friend and I.  
+A digital scale capable of taring and switching units. 
+Contributors: Hannah M. and Jaine R. 
 ## Objective: 
 Understand wheatstone bridges, amplifiers, and state machines by creating a rough digital scale using a load cell and other basic electrical components. 
 
